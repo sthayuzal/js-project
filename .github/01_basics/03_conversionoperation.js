@@ -43,5 +43,4 @@ let str1 = "Yuzal"
 
 let str2 =  str+str1
 
-console.log(str2);
-
+// console.log(str2);
